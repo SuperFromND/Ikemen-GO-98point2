@@ -1,0 +1,13 @@
+# IDE Files
+.vscode/*
+.vs/*
+.idea/*
+
+# Binaries
+bin/*
+
+# Compilation files
+src/*.syso
+
+# Temp
+src/lua_triggers.go
